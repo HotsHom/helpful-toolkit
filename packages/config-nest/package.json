@@ -1,6 +1,6 @@
 {
   "name": "@helpful-toolkit/config-nest",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A library for reading and validating environment variables with a user-friendly API for NestJS.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,8 +23,16 @@
     "ts-jest": "^29.2.5",
     "typescript": "^5.7.2"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HotsHom/helpful-toolkit/blob/main/packages/config-nest"
+  },
+  "homepage": "https://github.com/HotsHom/helpful-toolkit/blob/main/packages/config-nest/README.md",
+  "keywords": ["node", "config", "dotenv", "env", "envfile", "nest", "nestjs", "validation", "type", "types", "typescript", "dotenv"],
   "author": "Hotshom",
   "license": "Apache-2.0",
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
