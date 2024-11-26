@@ -26,5 +26,8 @@
   "keywords": ["node", "config", "dotenv", "env", "envfile", "nest", "nestjs", "validation", "type", "types", "typescript", "dotenv"],
   "author": "Hotshom",
   "license": "Apache-2.0",
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
