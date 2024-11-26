@@ -5,7 +5,7 @@
 
 **[Английская версия / English Version en](./README.md)**
 
-[>> Версия для Nest.js здесь <<](www.example.com)
+[>> Версия для Nest.js здесь <<](https://github.com/HotsHom/helpful-toolkit/tree/main/packages/config-nest)
 
 ## Обзор
 

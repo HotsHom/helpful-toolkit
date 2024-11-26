@@ -5,7 +5,7 @@
 
 **[Английская версия / English Version en](./README.md)**
 
-[>> Версия для Node.js здесь <<](www.example.com)
+[>> Версия для Node.js здесь <<](https://github.com/HotsHom/helpful-toolkit/tree/main/packages/config)
 
 ## Обзор
 
