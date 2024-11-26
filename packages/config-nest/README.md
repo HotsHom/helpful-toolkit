@@ -1,6 +1,6 @@
 # Config Helper For Nest.js (env manager)
 🚀 A flexible and powerful configuration management tool for Node.js and NestJS applications.    
-[![version](https://img.shields.io/npm/v/@helpful-toolkit/config)](https://www.npmjs.com/package/@helpful-toolkit/config) [![license](https://img.shields.io/npm/l/@helpful-toolkit/config)](https://opensource.org/licenses/Apache-2.0) [![npm](https://img.shields.io/npm/dt/@helpful-toolkit/config)](https://www.npmjs.com/package/@helpful-toolkit/config) [![GitHub issues](https://img.shields.io/github/issues/helpful-toolkit/config)](https://github.com/helpful-toolkit/config/issues)
+[![version](https://img.shields.io/npm/v/@helpful-toolkit/config)](https://www.npmjs.com/package/@helpful-toolkit/config) [![license](https://img.shields.io/npm/l/@helpful-toolkit/config)](https://opensource.org/licenses/Apache-2.0) [![npm](https://img.shields.io/npm/dt/@helpful-toolkit/config)](https://www.npmjs.com/package/@helpful-toolkit/config) [![GitHub issues](https://img.shields.io/github/issues/HotsHom/helpful-toolkit)](https://github.com/HotsHom/helpful-toolkit/issues)
 
 **[Русская версия / Russian Version 🇷🇺](./README_ru.md)**
 
