@@ -1,0 +1,27 @@
+{
+  "name": "helpful-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install-deps": "pnpm install",
+    "format": "prettier --write .",
+    "format-check": "prettier --check .",
+    "build-all": "pnpm -r --parallel build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@typescript-eslint/eslint-plugin": "^8.16.0",
+    "@typescript-eslint/parser": "^8.16.0",
+    "eslint": "^9.15.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.4.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "Hotshom",
+  "license": "Apache-2.0"
+}

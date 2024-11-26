@@ -1,0 +1,29 @@
+{
+  "name": "@helpful-toolkit/config-nest",
+  "version": "0.1.0",
+  "description": "A library for reading and validating environment variables with a user-friendly API for NestJS.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nestjs/common": "^10.4.9",
+    "@helpful-toolkit/config": "workspace:^"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [],
+  "author": "Hotshom",
+  "license": "Apache-2.0"
+}

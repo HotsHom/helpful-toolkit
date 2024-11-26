@@ -1,0 +1,25 @@
+{
+  "name": "@helpful-toolkit/template-module",
+  "version": "0.1.0",
+  "description": "Template Module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [],
+  "author": "Hotshom",
+  "license": "Apache-2.0"
+}
