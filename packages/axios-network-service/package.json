@@ -24,7 +24,7 @@
     "ts-jest": "^29.2.5",
     "typescript": "^5.7.2"
   },
-  "keywords": ["axios", "network", "react", "react-native", "typescript"],
+  "keywords": ["ky", "network", "react", "react-native", "typescript"],
   "author": "mnk2077",
   "license": "Apache-2.0"
 }
